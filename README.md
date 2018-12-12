@@ -5,6 +5,9 @@ Yoo-Hoo is using the Google Speech API to transform speech to text.
 
 NOTICE: Google Speech API is not free, have a looksy [here](https://cloud.google.com/speech-to-text/pricing)
 
+![img1](https://raw.githubusercontent.com/zvikachu/Yoo-Hoo/master/yoohoo1.png)
+![img2](https://raw.githubusercontent.com/zvikachu/Yoo-Hoo/master/yoohoo2.png)
+
 ## Installation
 
 1. git clone the project
